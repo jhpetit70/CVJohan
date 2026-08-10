@@ -44,19 +44,6 @@
   }
 </style>
 
-<div class="cv-md-header">
-  <img src="foto.jpg" alt="Foto de Perfil" width="130" height="130" style="border-radius: 10px; border: 3px solid #ffffff; object-fit: cover;">
-  <div>
-    <h1 class="cv-md-title">Johan José Petit Villarroel</h1>
-    <div class="cv-md-subtitle">Técnico Superior en Informática | Analista Programador Senior</div>
-    <div style="margin-top: 10px; font-size: 13px; color: #cbd5e1; font-style: italic;">
-      🚀 Especialista en Migración Legacy, Arquitectura N-Capas y Desarrollo Acelerado con IA
-    </div>
-  </div>
-</div>
-
----
-
 ## 📬 Información de Contacto y Estatus Legal en España
 
 - **🇪🇺 Estatus Legal UE:** Cónyuge de Ciudadana de la Unión Europea (Nacionalidad Portuguesa) — Sin necesidad de patrocinio de visado laboral (Régimen Comunitario)
