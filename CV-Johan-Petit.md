@@ -62,7 +62,7 @@
 - **🇪🇺 Estatus Legal UE:** Cónyuge de Ciudadana de la Unión Europea (Nacionalidad Portuguesa) — Sin necesidad de patrocinio de visado laboral (Régimen Comunitario)
 - **🌐 Disponibilidad:** Relocalización a España / Trabajo Remoto
 - **📍 Ubicación Actual:** Valencia, Venezuela
-- **📞 Teléfono / WhatsApp:** [+58 412-4037210](https://wa.me/584124037210) / +58 241-8663600
+- **📞 Teléfono / WhatsApp:** [+58 412-4037210](https://wa.me/584124037210) / +58 241-8663600 | **Telegram:** [@jhpetit70](https://t.me/jhpetit70)
 - **✉️ Correo Electrónico:** [jh.petit70@gmail.com](mailto:jh.petit70@gmail.com)
 - **🎓 Titulación Académica:** Técnico Superior (Equivalente en España a CFGS en Desarrollo de Software)
 
